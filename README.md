@@ -11,6 +11,6 @@ My solo project for CS161 in HCMUS
 8. Saving high scores.
 
 ## Guide
-z: open
-y: flag
->, <, ^, v: to move cursor
+- z: open
+- y: flag
+- >, <, ^, v: to move cursor
