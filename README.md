@@ -13,4 +13,4 @@ My solo project for CS161 in HCMUS
 ## Guide
 - z: open
 - y: flag
-- >, <, ^, v: to move cursor
+- ">, <, ^, v": to move cursor
